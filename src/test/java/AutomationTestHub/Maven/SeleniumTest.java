@@ -13,5 +13,13 @@ public class SeleniumTest {
 	public void browserLogOut() {
 		System.out.println("This is browserLogOut ");
 	}
+	@Test
+	public void browserLogin2() {
+		System.out.println("This is browserLogin ");
+	}
+	@Test
+	public void browserLogin3() {
+		System.out.println("This is browserLogin ");
+	}
 
 }
