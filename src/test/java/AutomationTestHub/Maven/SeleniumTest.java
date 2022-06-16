@@ -11,7 +11,7 @@ public class SeleniumTest {
 
 	@Test
 	public void browserLogOut() {
-		System.out.println("This is browserLogOut ");
+		System.out.println("This is browserLogOut234 ");
 	}
 	@Test
 	public void browserLogin2() {
